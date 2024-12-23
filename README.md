@@ -85,7 +85,12 @@ The project is divided into multiple classes and utility functions:
 
 ## 🖼️ Demo
 
-Add screenshots or GIFs here to show the application in action.
+![image](Screenshots/splash.png)
+![image](Screenshots/splash_2.png)
+![image](Screenshots/menu.png)
+![image](Screenshots/1.png)
+![image](Screenshots/2.png)
+
 
 ---
 
